@@ -12,6 +12,6 @@
 
 
 [logo-url]: https://github.com/DeepsikhaSarma/DeepsikhaSarma/blob/main/development.png
-[repo-url]: https://github.com/DeepsikhaSarma/DeepsikhaSarma
+[repo-url]: https://github.com/DeepsikhaSarma
 [banner-url]: https://www.behance.net/gallery/191225069/Ferrari-250-GTO/modules/1081576715
 
