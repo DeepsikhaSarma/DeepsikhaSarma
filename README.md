@@ -2,7 +2,7 @@
 
 [![][logo-url]][repo-url]  
 
-**Free Tailwind CSS Components**  
+**Data Science Projects**  
 [ [See all components ↗︎][repo-url] ]
   
 
@@ -12,8 +12,8 @@
 
 
 [logo-url]: https://github.com/DeepsikhaSarma/DeepsikhaSarma/blob/main/development.png
-[repo-url]: https://daisyui.com/
-[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
+[repo-url]: https://github.com/DeepsikhaSarma/DeepsikhaSarma
+[banner-url]: https://www.behance.net/gallery/191225069/Ferrari-250-GTO/modules/1081576715
 
 <!---
 DeepsikhaSarma/DeepsikhaSarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
