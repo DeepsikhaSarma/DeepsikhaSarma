@@ -1,6 +1,5 @@
 <div align="center">
 
-[ [See all components ↗︎][[repo-url](https://github.com/DeepsikhaSarma?tab=repositories)] ]
 
 **Data Science Projects**  
 [ [See all components ↗︎][[repo-url](https://github.com/DeepsikhaSarma?tab=repositories)] ]
