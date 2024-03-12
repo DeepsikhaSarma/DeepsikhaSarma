@@ -1,7 +1,7 @@
 <div align="center">
 
 
-##Data Science Projects 
+## Data Science Projects 
 [ [See all components ↗︎][[repo-url](https://github.com/DeepsikhaSarma?tab=repositories)] ]
   
 
