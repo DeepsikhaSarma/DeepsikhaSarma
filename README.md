@@ -1,6 +1,6 @@
 <div align="center">
 
-[![][logo-url]][repo-url]  
+[![][logo-url]][https://github.com/DeepsikhaSarma?tab=repositories]  
 
 **Data Science Projects**  
 [ [See all components ↗︎][repo-url] ]
